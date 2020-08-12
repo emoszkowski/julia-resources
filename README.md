@@ -2,11 +2,12 @@
 
 People (mostly economists) often ask me for resources for learning Julia. Henceforth, I will simply direct you to this repo. 
 
+
 I have found the following resources to be very helpful: 
 
 
 - https://julia.quantecon.org/index_toc.html for getting set up and an intro to how packages work
-  - See especially Getting Started with Julia and Packages and Software Engineering in Julia sections are helpful for setting up your basic computing environment)
+  - See especially "Getting Started with Julia" and Packages and "Software Engineering in Julia". These sections are helpful for setting up your basic computing environment.
 
 - https://learnxinyminutes.com/docs/julia/ (for basic syntax)
 
